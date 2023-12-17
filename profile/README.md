@@ -4,10 +4,11 @@ Hi 👋
 
 We're leading the digital revolution in Student Union management and experience.
 
-## Tech Stack
+## Architecture & Tech Stack
 
-Our backend solution is entirely contained within Directus.
-We recommend Vue frameworks (our devs love [Nuxt](https://nuxt.com)), but our offering allows you to bring your own front end, allowing you to tailor your OpenSU experience for your organisation.
+OpenSU is a BYOF (bring your own frontend) solution, giving you the highest degree of flexibility and tailoring when creating your SU's digital system.
+Our backend solution is entirely contained within Directus, with extensions that add heaps of features designed to help manage your Student Union.
+Our sample frontends are made with [Nuxt](https://nuxt.com), but you can use any framework or tooling, just check out our API reference (coming soon).
 
 ## Our Projects
 
